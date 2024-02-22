@@ -4,15 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7a380e81-d407-465b-96ec-51ad13d1071c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChatMulticast.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/ClienteMulticast.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/ServidorMulticast.java" afterDir="false" />
+    <list default="true" id="7a380e81-d407-465b-96ec-51ad13d1071c" name="Changes" comment="Recibe y responde en consola">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/util/ClienteMulticast.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/util/ClienteMulticast.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/util/ServidorMulticast.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/util/ServidorMulticast.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,6 +70,19 @@
       <option name="presentableId" value="Default" />
       <updated>1708534856513</updated>
     </task>
+    <task id="LOCAL-00001" summary="Recibe y responde en consola">
+      <option name="closed" value="true" />
+      <created>1708596630852</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708596630852</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Recibe y responde en consola" />
+    <option name="LAST_COMMIT_MESSAGE" value="Recibe y responde en consola" />
   </component>
 </project>
